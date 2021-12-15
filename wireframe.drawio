@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="PL4DWG5uAP67VeQOFq5F" name="Page-1">
+        <mxGraphModel dx="1162" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="50" width="670" height="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="MENU BAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="50" width="670" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="User Story: Search for YouTube Videos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="90" width="340" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="555" y="90" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="User Story:&lt;br&gt;Related Video&lt;br&gt;Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="User Story: Play&amp;nbsp; YouTube Video in embedded video player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="150" width="430" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="100" y="560" width="440" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;h1&gt;User Story: Comments:&lt;/h1&gt;&lt;div&gt;User Story: Add Comments and Reply to Comments&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="19">
+                    <mxGeometry width="440" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="User Story: Like/Dislike/Reply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="19">
+                    <mxGeometry y="70" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="User Story: See Title and Desc. of currently playing video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="480" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="User Story:&lt;br&gt;Related Video&lt;br&gt;Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="User Story:&lt;br&gt;Related Video&lt;br&gt;Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="User Story:&lt;br&gt;Related Video&lt;br&gt;Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,8 @@
+.maskedBox{
+    background-color: #E0DBD1;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: groove;
+
+}
